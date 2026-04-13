@@ -1,14 +1,14 @@
 # F1 Podium Predictor
 
 Predicts which drivers will finish in the top 3 of F1 races using 70+ years 
-of historical race data. Built with machine learning in Python — includes 
+of historical race data. Built with machine learning in Python, it includes 
 data analysis, visualizations, and 2025 season predictions.
 
 ## Overview
 
 This project uses machine learning to predict Formula 1 podium finishes 
 (top 3 results) based on historical race data. Two versions of the notebook 
-are available — a demo version with sample data that runs instantly with no 
+are available a demo version with sample data that runs instantly with no 
 setup, and a full version powered by the real Kaggle F1 dataset with actual 
 charts and model outputs rendered.
 
@@ -22,7 +22,7 @@ https://colab.research.google.com/github/shaalan171-netizen/F1-podium-predictor/
 This version uses lightweight sample data and is designed to show the 
 full project structure and methodology without requiring any downloads. 
 It's ideal for quickly understanding the approach and code logic. All 
-cells are structured and documented but outputs are not pre-rendered — 
+cells are structured and documented but outputs are not pre-rendered 
 you'll need to run it yourself to see results.
 
 **Best for:** Reviewing code structure, understanding the ML pipeline, 
@@ -33,7 +33,7 @@ running quickly in any environment.
 
 This version was run against the complete Formula 1 World Championship 
 dataset from Kaggle, covering every race from 1950 to 2023. All cells 
-have been executed and outputs are fully rendered — including charts, 
+have been executed and outputs are fully rendered including charts, 
 model accuracy scores, confusion matrices, feature importance plots, 
 and 2025 season predictions. No setup required to view results, just 
 open the notebook on GitHub.
